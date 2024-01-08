@@ -34,6 +34,6 @@ class UIHelper {
         echo "4. Rechercher un livre par domaine\n";
         echo "5. Quitter\n";
         echo "\033[0m"; // Réinitialiser le style
-        echo "Choisissez une option : ";
+        //echo "Choisissez une option : ";
     }
 }
